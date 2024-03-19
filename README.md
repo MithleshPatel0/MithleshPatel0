@@ -1,5 +1,4 @@
-### Hi there 👋 
-I'm Mithlesh Patel from India
+### Hi there 👋, I'm Mithlesh Patel from India
 ####  I am a Frontend Developer who is passionate about programming and creating websites from A to Z.
 
 Skills: 👨‍💻 Mostly working on ❤️ HTML ❤️ CSS ❤️ Javascript
